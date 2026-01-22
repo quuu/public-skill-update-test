@@ -6,6 +6,8 @@ description: A brief description of what this skill does
 # new
 
 Instructions for the agent to follow when this skill is activated.
+Instructions for the agent to follow when this skill is activated.
+Instructions for the agent to follow when this skill is activated.
 
 ## When to use
 
